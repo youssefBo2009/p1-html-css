@@ -1,0 +1,31 @@
+    table{
+        color: white;
+        border-spacing: 0px;
+      
+    }
+
+    .table-header{
+        background-color: #B0AFEB
+       }
+
+    td{
+        padding: 10px 20px;
+  
+    }
+    
+    th{
+        padding: 15px 20px;
+        
+    }
+
+    tr{
+        background-color: black;
+    }
+
+.table-choices{
+    background-color: #7272dd;
+}
+
+.border-radius{
+      border-bottom-right-radius: 80px 100px;
+}
