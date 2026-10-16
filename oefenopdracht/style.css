@@ -1,0 +1,26 @@
+.container{
+    background-color: lightblue;
+    display: flex;
+    
+    div{
+        border: 1px solid black;    
+    }
+    
+    
+    
+}
+
+.item{
+        flex: 3;
+        
+       
+
+}
+
+.advise{
+    background-color: greenyellow;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+
+}
