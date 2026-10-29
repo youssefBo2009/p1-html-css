@@ -1,0 +1,128 @@
+@font-face {
+    font-family: ftltlt-webfont;
+    src: url(ftltlt-webfont.woff) ;
+}
+
+nav{
+    background-color: #7272DD;
+    padding: 15px;
+}
+
+
+body{
+    background-color: black;
+     margin: 0px;
+    font-family: ftltlt-webfont;
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav-links
+{
+    display: flex;
+    justify-content: space-around;
+    max-width: 900px;
+    
+}
+
+.jo{
+    background-color: blue;
+}
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+
+   .box {
+            display: flex;
+            gap: 4px;
+            Max-width: 1100px;
+            margin: 0 auto;
+            margin-top:70px ;
+            span{
+           
+            padding: 4px 10px;
+        }
+        }
+
+h1{
+    font-size: 70px;
+    margin: 0px;
+    
+}
+  
+
+.span1{
+    background-color: #9000ff;
+}
+.span2{
+background-color:#55559f ;
+}
+.span3{
+background-color:#b0b0eb ;
+}
+
+.button-explore{
+    border: solid white 1px;
+    border-radius: 5px;
+    max-width: 103px;
+    padding: 10px;
+
+}
+
+.button-explore2{
+    background-color: #9000ff;
+    max-width: 103px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.buttons{
+
+    display: flex;
+    gap: 20px;
+}
+
+.container2{
+    color: black;
+    background-color: white;
+    
+}
+
+.about-us{
+    align-items: end;
+    max-width: 1100px;
+    display: flex;
+    justify-content: space-between ;
+    margin: 0 auto;
+}
+
+footer{
+    background-color: #9000ff;
+    display: flex;
+    justify-content: center;
+    gap: 700px;
+    padding: 10px;
+}
+
+.content-left{
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.button-low{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
