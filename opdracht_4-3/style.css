@@ -4,13 +4,13 @@
 }
 
 nav{
-    background-color: #7272DD;
+    background-color: blue;
     padding: 15px;
 }
 
 
 body{
-    background-color: black;
+    background-color: rgb(43, 126, 43);
      margin: 0px;
     font-family: ftltlt-webfont;
     color: white;
@@ -123,6 +123,11 @@ footer{
     background-color: black;
     padding: 15px;
     border-radius: 10px;
+}
+
+.klikhier{
+
+    color: black;
 }
 
 

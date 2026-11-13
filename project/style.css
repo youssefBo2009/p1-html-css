@@ -1,0 +1,124 @@
+
+body {
+    background-color: #eaf3ff;
+    font-family: Arial;
+    margin: 0;
+    color: #333333;
+}
+
+header {
+    background-color: #1554a5;
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav > a {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+    gap: 20px;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: #a9d8ff;
+}
+
+section {
+    background-color: white;
+    margin: 25px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+
+h1 {
+    color: #1554a5;
+    font-size: 36px;
+}
+
+h2 {
+    color: #1554a5;
+}
+
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+img {
+    width: 300px;
+    border-radius: 8px;
+}
+
+
+video {
+    max-width: 100%;
+}
+
+
+button {
+    background-color: #1554a5;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+input, select, textarea {
+    padding: 10px;
+    margin-top: 5px;
+}
+
+/* Tabel */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #1554a5;
+    color: white;
+}
+
+th, td {
+    border: 1px solid #cccccc;
+    padding: 10px;
+}
+
+/* Footer */
+footer {
+    background-color: #1554a5;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer a {
+    color: white;
+}

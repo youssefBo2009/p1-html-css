@@ -1,0 +1,57 @@
+.stage {  
+    position: relative;
+    cursor: pointer;
+    
+    -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;    
+   overflow: hidden;    
+}
+
+.bannerSize{ 
+width: 300px; 
+ 
+background-color: black
+}
+
+h1{
+    color:white ;
+    font-size: 45px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+   
+}
+
+h2{
+    color:white ;
+    font-size: 20px;
+    margin-left: 10px;
+    display: flex;
+    gap: 65px;
+    margin-bottom: 0px;
+   
+}
+
+h3{
+    color:white ;
+    font-size: 10px;
+    margin-left: 10px;
+}
+
+A{
+    color: white;
+    background-color: #7272dd ;
+    border: solid white 1px;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: flex;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: 20px;
+    margin-bottom: 50px ;
+    
+}
+
+
+
